@@ -7,7 +7,8 @@
     },
     {
       "text": "Episodes",
-      "url": "/episodes"
+      "url": "/episodes",
+      "external": false
     },
     {
       "text": "Twitter",
