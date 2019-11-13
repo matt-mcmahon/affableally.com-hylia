@@ -10,13 +10,13 @@
       "url": "/episodes"
     },
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/hankchizljaw",
-      "external": true
-    },
-    {
       "text": "People",
       "url": "/people/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/affablepod",
+      "external": true
     }
   ]
 }
